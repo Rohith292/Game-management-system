@@ -58,7 +58,7 @@ Shoot aliens before they reach you.
 ### 💣 Minesweeper
 Click tiles and avoid hidden mines.
 
-![Minesweeper](./images/MineSweeper.png)
+![Minesweeper](./images/minesweeper.png)
 
 ---
 
