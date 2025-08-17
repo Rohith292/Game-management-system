@@ -51,7 +51,7 @@ Sign-up form for new users.
 ### 👻 Pacman
 Collect dots while avoiding ghosts.
 
-![Pacman](./images/Pacman.png)
+![Pacman](./images/pacman.png)
 
 ---
 
