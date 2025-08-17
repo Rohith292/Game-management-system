@@ -6,24 +6,10 @@ The **Game Management System** is a Java desktop app offering multiple classic g
 
 ## 🕹️ Game Modules
 
-### 🐤 Flappy Bird
-Side-scrolling game where you control a bird flying between pipes.
+### 📝 Register
+Sign-up form for new users.
 
-![Flappy Bird](./images/FlappyBird.png)
-
----
-
-### ⌨️ Game Running (Username Prompt)
-Prompts for username before launching a game session.
-
-![Game Running](./images/GameRunning.png)
-
----
-
-### 🎮 Game Selection Hub
-Launch any game or view scores from a single interface.
-
-![Game Selection](./images/GameSelection.png)
+![Register](./images/Register.png)
 
 ---
 
@@ -34,17 +20,24 @@ Simple login form for existing users.
 
 ---
 
-### 💣 Minesweeper
-Click tiles and avoid hidden mines.
+### 🎮 Game Selection Hub
+Launch any game or view scores from a single interface.
 
-![Minesweeper](./images/MineSweeper.png)
+![Game Selection](./images/GameSelection.png)
 
 ---
 
-### 📝 Register
-Sign-up form for new users.
+### ⌨️ Game Running (Username Prompt)
+Prompts for username before launching a game session.
 
-![Register](./images/Register.png)
+![Game Running](./images/GameRunning.png)
+
+---
+
+### 🐤 Flappy Bird
+Side-scrolling game where you control a bird flying between pipes.
+
+![Flappy Bird](./images/FlappyBird.png)
 
 ---
 
@@ -59,6 +52,13 @@ Collect dots while avoiding ghosts.
 Shoot aliens before they reach you.
 
 ![Space Invader](./images/SpaceInvader.png)
+
+---
+
+### 💣 Minesweeper
+Click tiles and avoid hidden mines.
+
+![Minesweeper](./images/MineSweeper.png)
 
 ---
 
